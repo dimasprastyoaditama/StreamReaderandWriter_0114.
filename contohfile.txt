@@ -1,0 +1,1 @@
+cd "c:\Stream Reader and Writer pertemuan 13\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
