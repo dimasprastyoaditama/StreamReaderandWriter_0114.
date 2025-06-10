@@ -35,5 +35,9 @@ int main() {
     {
         // melakukan perulangan setiap baris
         while (getline(infile, baris))
+        {
+            // dan tampilkan disini
+            cout << baris << '\n';
+        }
 
 }
