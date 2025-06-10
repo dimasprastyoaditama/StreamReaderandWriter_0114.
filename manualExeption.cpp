@@ -20,5 +20,5 @@ int main()
         cout << "default Pengecualian dieksekusi" << endl;
     }
 
-    
+    return 0;
 }
