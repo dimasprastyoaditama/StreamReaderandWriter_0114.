@@ -10,6 +10,10 @@ int main() {
     //menunjuk ke sebuah nama file
     outfile.open("contohfile.txt");
     cout << ">= Menulis file, \ 'q\' untuk keluar" << endl;
+    while (true) {
+        cout << "_ ";
+        //mendapatkan setiap karakter dalam satu baris
+        getline(cin, baris);
 
 
 }
